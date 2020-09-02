@@ -1,1 +1,1 @@
-# JSmart-Apps
+# JS-Apps
